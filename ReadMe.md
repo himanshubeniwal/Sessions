@@ -73,6 +73,4 @@ To explore more about Data Science, Machine Learning, and AI; Do check these ama
 <br />
 -------------------------------------------------------
 <br /><br /><br />
-_Managed by Himanshu & Ambika_. <br />
-_Wait for some more resources. We will be back with more cool things!_ 😍
 Keep learning & keep sharing! :)
